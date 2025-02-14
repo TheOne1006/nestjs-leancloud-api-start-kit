@@ -59,4 +59,4 @@ lerna-debug.log*
 
 # Environment
 .env
-!.env.examples
+!.env.example
